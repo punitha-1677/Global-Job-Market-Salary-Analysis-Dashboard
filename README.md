@@ -21,7 +21,7 @@ Salary by Industry (Bar Chart)
 Salary by Company Size (Column Chart)
 Remote Work Distribution (Pie Chart)
 Salary by Country (Map)
-🎛 Interactive Filters
+Interactive Filters
 Skill Level
 Job Role
 Location
